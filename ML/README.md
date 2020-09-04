@@ -26,6 +26,9 @@ in DYPCOE. Resources include course/blog/tutorial/research paper links as well a
 - [Deep Learning for Coders with fastai and PyTorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
 - [Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio](https://www.deeplearningbook.org/)
 
+## Comprehensive Roadmap
+- A Complete Machine Learning [Roadmap](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) made by [Daniel Bourke](https://twitter.com/mrdbourke).
+
 ## Useful Links
 - [Kaggle](https://www.kaggle.com/)
 - [Applying for financial aid on Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
