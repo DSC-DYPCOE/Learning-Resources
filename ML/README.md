@@ -9,6 +9,10 @@ in DYPCOE. Resources include course/blog/tutorial/research paper links as well a
 - Don't get stuck in the MOOC cycle, while & after learning, do projects, write blogs. Stay Curious.
 
 ## Online Courses
+### Mathematics:
+- [Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
+- [Calculus - 3Blue1Brown](https://www.youtube.com/playlist?list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x)
+- [MIT 18.06 - Prof. Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
 ### Machine Learning & Deep Learning
 - [Andrew Ng’s Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 - [Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
