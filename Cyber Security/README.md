@@ -2,7 +2,7 @@
 
 Hello security researchers this repository is built in a way which guides you through the initial learning and basics of Cyber Security in web application
 
-### Note Before we Dig in: **All the content mentioned here is for educational purpose only and being ethical to all Cyber Laws any acts of Unethical is upto person conducting it the community is solely not reponsible for such acts.**
+### Note Before we Dig in: ** Information provided on here is for educational purposes only. The communtiy is no way responsible for any misuse of the information..**
 
 -----------------------------------------------------------------------
 What is Cyber Security in Web Applications ?
