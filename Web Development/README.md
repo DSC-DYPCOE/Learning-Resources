@@ -51,7 +51,7 @@ Mozilla Developer Network is a place where you can strengthen your basic skills.
 - [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
 - [Javascript The Right Way](http://jstherightway.org/)
 
-Some Books
+**Some Books**
 
 - [Eloquent JS](http://eloquentjavascript.net/)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
