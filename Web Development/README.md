@@ -1,39 +1,39 @@
-### Ola! 👋
+# Ola! 👋
 
 This community and repository is created with the spirit of helping anyone break into Web Development and working with the DSC Chapter to build a community of Web Development Enthusiasts right here in DYPCOE. Resources include course/blog/tutorial/research paper links as well as prospective project ideas.
 
 ## Roadmaps
 
-# Caution!
+#### Caution!
 
 Before you dive into any of these roadmaps, keep in mind that these are full fledged roadmaps. There is a ton of content and you don't need to learn each and every thing included in these roadmaps to master the field. Consider them as an **overview of the field** and not as a blind map you've got to follow.
 
-# Complete Roadmaps
+### Complete Roadmaps
 
 - [Traversy Media](https://www.youtube.com/watch?v=0pThnRneDjw)
 - [LearnCode Academy](https://www.youtube.com/watch?v=SBB1YtwODT0&t=506s)
 
-# FrontEnd Roadmaps
+### FrontEnd Roadmaps
 
 - [Kamran Ahmed](https://roadmap.sh/frontend)
 - [Clever Programmer](https://www.youtube.com/watch?v=UgBTKMUxudw)
 
-# Backend Roadmap
+### Backend Roadmap
 
 - [Kamran Ahmed](https://roadmap.sh/backend)
 
-## Now that you've got an idea of web development world, here are some places where you can actually learn stuff:
+#### Now that you've got an idea of web development world, here are some places where you can actually learn stuff:
 
 - First and foremost, bow down to the [MDN](https://developer.mozilla.org/en-US/) lords!🙇‍♂️
 
 Mozilla Developer Network is a place where you can strengthen your basic skills. It is created and maintained by Mozilla.
 
-# Getting Started
+### Getting Started
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [The Odin Project](https://www.theodinproject.com/)
 
-# Topic Wise
+### Topic Wise
 
 **HTML/CSS**
 
@@ -82,7 +82,7 @@ _Caution_: Before you begin with any JS framework/library, make sure you have a 
 - [The Net Ninja](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 - [Traversy Media](https://www.youtube.com/watch?v=Wy9q22isx3U)
 
-# Youtube Channels
+### Youtube Channels
 
 Youtube is overloaded with web development tutorials. Here are some of the best channels which I prefer:
 
@@ -91,9 +91,11 @@ Youtube is overloaded with web development tutorials. Here are some of the best 
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 
-# Others
+### Others
 
 Here are some other places you can refer:
 
 - [CSS TRICKS](https://css-tricks.com/)
 - [Codecademy](https://www.codecademy.com/)
+
+#### Have an issue? Found an error? Wanna add something? Raise issues!
