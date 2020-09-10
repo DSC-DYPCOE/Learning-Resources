@@ -61,7 +61,7 @@ Add **block storage** to VM instances : [Doc](https://cloud.google.com/compute/d
  * ### SECURITY:
    * [Shielding VM](https://cloud.google.com/security/shielded-cloud/shielded-vm)
    * [Manage Encryption keys on cloud](https://cloud.google.com/kms/docs)
- * ### IDENTITY and ACCESS MANAGEMENT IAM
+ * ### IDENTITY and ACCESS MANAGEMENT (IAM)
  This lets you create and manage permissions for Google Cloud resources. [Click here for more info](https://cloud.google.com/iam/docs)
 ## OPERATIONS 
 * **CLOUD LOGGING** :
