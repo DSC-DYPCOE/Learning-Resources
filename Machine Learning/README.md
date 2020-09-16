@@ -35,7 +35,7 @@ As you might have seen from the video, what do those terms mean, you might have 
 - A Complete Machine Learning [Roadmap](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) made by [Daniel Bourke](https://twitter.com/mrdbourke).
 
 ## Competitive Platforms to Showcase Skills 
-(" The best way of learning anything is by doing ")
+## (" The best way of learning anything is by doing ")
 - [Kaggle ](https://www.kaggle.com/)
 - [ International Data Analysis Olympiad (IDAHO)](https://idao.world/)
 - [DrivenData](https://www.drivendata.org/competitions/)
