@@ -36,8 +36,8 @@ As you might have seen from the video, what do those terms mean, you might have 
 
 ## Competitive Platforms to Showcase Skills (" The best way of learning anything is by doing ")
 - [Kaggle ](https://www.kaggle.com/)
--[ International Data Analysis Olympiad (IDAHO)](https://idao.world/)
--[DrivenData](https://www.drivendata.org/competitions/)
+- [ International Data Analysis Olympiad (IDAHO)](https://idao.world/)
+- [DrivenData](https://www.drivendata.org/competitions/)
 - [Top-Ongoing Contest Are Listed here](https://mlcontests.com/)
 - [To know more about such Competitions refer this ](https://towardsdatascience.com/top-competitive-data-science-platforms-other-than-kaggle-2995e9dad93c)
 ## Useful Links
