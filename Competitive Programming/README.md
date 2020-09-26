@@ -95,3 +95,105 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - **Aditya Verma** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
  - **TakeYouForward** - https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe 
 ---
+
+
+## Searching  
+- Linear Search 
+- Binary Search 
+---
+## Sorting
+- Selection Sort 
+- Bubble Sort 
+- Insertion Sort 
+- Merge Sort 
+- Quick Sort 
+- Heap Sort 
+- Radix Sort 
+- Count Sort 
+---
+## Mathematics: 
+
+### Playlists
+ - **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
+ 
+### Number Theory 
+- Prime Number Generation (Sieve, Segmented Sieve) 
+- Euler Totient Theorem 
+- Fermat’s Theorem 
+- HCF & LCM (Euclid) 
+- Linear Diophantine Equations (Extended Euclid) 
+- Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse) 
+
+### Probability 
+- Basic Probability and Conditional Probability 
+- Random Variables 
+- Probability Generating Functions 
+- Expectation 
+- Probability Distribution [Binomial, Poisson, Normal,Bernoulli] 
+
+### Linear Algebra 
+- Multiplication ( Strassen's algorithm ), Logarithmic exponentiation 
+- Matrix Transformations [ Transpose, Rotation Of Matrix, Representing Linear Transformations Using Matrix ] 
+- Determinant , Rank and Inverse Of Matrix [ Gaussian Elimination , Gauss Jordan Elimination] 
+- Solving System Of Linear Equations 
+- Matrix Exponentiation To Solve Recurrences 
+---
+### Game Theory - https://www.youtube.com/watch?v=_thN1Rp_FRA
+--- 
+## Graphs: 
+
+### Playlists
+  - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
+
+### Graph Representation 
+- Adjacency Matrix 
+- Adjacency List 
+
+### Graph Types 
+- Directed 
+- Undirected 
+- Weighted 
+- Unweighted
+- Euler 
+
+### Graph Concepts 
+- DFS
+- BFS
+- Strongly Connected Component 
+- Connected Component
+- Cycle Detection 
+- Articulation Points 
+- Bridges   
+- Topological Sorting 
+- Bipartite Checking 
+- Flood-fill algorithm 
+---
+## Graph/Tree Algorithms 
+- Prim’s Algorithm 
+- Kruskal Algorithm 
+- Dijkstra 
+- Bellman Ford 
+- Floyd Warshall’s Algorithm 
+- Euler Tour 
+
+---
+## Dynamic Programming 
+
+### Playlists
+- **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+- **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+
+### Classical Problems 
+- Fibonacci Series
+- Longest Common Substring 
+- Longest Increasing Subsequence 
+- Longest Palindromic Substring 
+- Edit Distance 
+- Egg Dropping Puzzle 
+- Integer Knapsack 
+- Longest Common Subsequence 
+- Longest Substring Without Repeating Character 
+- Matrix Chain Multiplication 
+- Max Size Square Submatrix With One 
+- Maximum Length Chain
+
