@@ -19,7 +19,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [Sphere Online Judge(SPOJ)](https://www.spoj.com/)
 
 
-## Most Famous Programming Contests
+## Most Prestigious Programming Contests
  - [Google KickStart🏆](https://codingcompetitions.withgoogle.com/kickstart)
  - [ACM ICPC (Olympics of Programming)🏆](https://icpc.global/)
  - [Google CodeJam🏆](https://codingcompetitions.withgoogle.com/codejam)
