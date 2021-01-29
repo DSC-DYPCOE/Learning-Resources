@@ -17,7 +17,7 @@ Scholarship Amount: Sponsored 3 day Trip to USA to attend GHC + Career Opportuni
 Application Dates : Going On Currently.
 Application Link and Details : https://ghc.anitab.org/attend/academics/
 
-##Opening Soon
+## Opening Soon
 1.Women Techmakers Engineering Fellows 
 Batches Eligible : 2023/24 Females
 Scholarship Amount : Rs.2,00,000.+Sponsored Trips to Google Office.
